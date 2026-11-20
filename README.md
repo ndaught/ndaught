@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndaught
+- 👋 Hi, I’m DAE
 - 👀 I’m interested in web and interface design.
 - 📫 How to reach me via my website: [daught.me](https://daught.me)
 
